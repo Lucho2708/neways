@@ -14,10 +14,18 @@
     background-color: #DFE0DF;
 }
 
-#services {
+#service {
     background-color: #2F4858;
 }
 
-#services i {
+#service i {
     font-size: 2rem;
+}
+
+#service h5 {
+    color: #E57E2B; 
+}
+
+#service h2 {
+    color: #E57E2B; 
 }
