@@ -1,0 +1,23 @@
+#navbar-ays img {
+    width: 200px;
+}
+
+#navbar-ays li a {
+    color: #172D67 !important;
+}
+#navbar-ays li a:hover {
+    color: #FFB75B !important;
+    font-size: 1.1rem;
+}
+
+#about {
+    background-color: #DFE0DF;
+}
+
+#services {
+    background-color: #2F4858;
+}
+
+#services i {
+    font-size: 2rem;
+}
